@@ -1,0 +1,15 @@
+PODS:
+  - TMCache (2.1.0)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - TMCache
+  - YYCache
+
+SPEC CHECKSUMS:
+  TMCache: 95ebcc9b3c7e90fb5fd8fc3036cba3aa781c9bed
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: 65ccbe67832e723b4c38ca7031ec0fd2f83fdd75
+
+COCOAPODS: 1.2.0
